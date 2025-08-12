@@ -30,5 +30,6 @@ DHNC is a custom encryption algorithm that uses a dynamic set of secret special 
 
 ### Installation
 - Clone the repository:
+```bash
   git clone https://github.com/ultwad/DHNC.git
   cd DHNC
